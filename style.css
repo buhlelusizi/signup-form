@@ -1,0 +1,7 @@
+body{
+    background-image: url('photo.jpg');
+    background-size: cover;
+}
+#main{
+    padding-top: 20%;
+}
